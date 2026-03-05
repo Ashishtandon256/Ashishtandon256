@@ -10,11 +10,11 @@ Email Me 👉 ✉️ **ashishtandon256@gmail.com** For Jobs/Project or Anything 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar-data-ai&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashishtandon256&theme=radical" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagar-data-ai&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashishtandon256&theme=radical" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar-data-ai&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashishtandon256&theme=radical" />
 
 </div>
 
